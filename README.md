@@ -7,27 +7,19 @@
 
 ## Features
 
-+ Social Login
-+ Geolocalização
++ Captura a posição do usuário
++ Determina intervalo para monitoramento e sincronização de dados
 
 ## React Native / I Love This
 
 + Hooks
 + Core Components
-+ Styled Components
 + Flexbox Layout
-+ React Navigation
-+ Material UI
-+ React Native Camera
-+ Context API
++ React Navigation Stack
 + Redux - State Management
-+ Sliding Card
-+ Map animation
-+ Imagens com LazyLoad
-+ Scroll infinito
-+ Place Graph
-+ Lottie
-+ API Waze
++ Geolocalização do usuário
++ Sincronização
++ Offline First
 
 ## Firebase
 
